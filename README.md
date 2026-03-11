@@ -16,22 +16,17 @@ These recipes have been tested under the following circumstances:
 - Utensils
     - Bowls
     - Spoon
+    - Knife
 - Ingredients
     - Salt
 
-[Complete the list of requirements. Use indented lists too.]
-
 ## How to install
 
-Click on the desired .md file in GitHub to visualize online. 
+Click on the desired '.md' file in GitHub to visualize online. 
 Alternatively, clone this repository locally and use your favorite text editor to preview the .md file.
 
-[Highlight .md words using `inline code` quotes]
-
 ## License
-This software is distributed under a ________license.
-
-[Pick the license that best fits this repository: MIT, Creative Commons, Apache] 
+This software is distributed under a MIT license.
 
 ## Copyright
 
@@ -44,5 +39,4 @@ Use the citation in the `CITATION.CFF` file to acknowledge this work.
 ## Acknowlegdements
 - Nana
 - Raul, my mexican friend
-
-[Name anyone who has helped this project]
+- Grandma
